@@ -45,6 +45,8 @@
     font-size: 1.1em;
     font-weight: 500;
     margin-right: 40px;
+    font-family:cursive;
+
 
 }
 .button a:hover {
@@ -118,7 +120,7 @@
     font-weight: 800;
     margin-bottom: 40px;
     text-transform: capitalize;
-    font-family: alegreya;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding-top: 50px;
 }   
 .info {
@@ -179,11 +181,11 @@
     
     .first h1 {
         margin-left: 5px;
-        font-size: 1em;
+        font-size: 15px;
     }
     .first h3 {
         margin-left: 10px;
-        font-size: 0.5em;
+        font-size: 10px;
     }
     .info {
         font-size: 10px;
